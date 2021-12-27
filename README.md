@@ -1,0 +1,5 @@
+- 👋 __Hi__, I’m @yet-another-marcin
+- 🧑‍💻 I'm an NLP engineer.
+- 👀 I’m interested in natural language processing (NLP) 💬, __speech technology__ 🗣, logics 🤓, formal languages 🧐.
+- 🐍 Python is my language of choice.
+- 🌱 I’m currently learning the Julia Programming Language.
